@@ -1,0 +1,17 @@
+Questions File:
+
+Q1: Total Sales kitni hui?
+Q2: Top 5 highest selling products
+Q3: Kis region me sabse zyada profit hai?
+Q4: Monthly sales trend dikhao
+Q5: Loss wale orders (negative profit)
+Q6: Top customers by revenue
+Q7: Category-wise performance
+Q8: Discount ka profit par impact
+Q9: Sabse zyada quantity kis product ki bikti hai?
+Q10: Country-wise sales ranking 
+Q11: Top 3 products in each category
+Q12: Running total of sales (Cumulative Sales)
+Q13: Repeat vs New Customers
+Q14: Profit ratio (Profit / Sales)
+Q15: Most profitable sub-category in each region
